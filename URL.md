@@ -17,7 +17,8 @@
 15. Notofonts/bhaisuki [Bhaisuki](https://github.com/notofonts/bhaiksuki)
 16. Notofonts/ahom [Ahom](https://github.com/notofonts/ahom)
 17. Notofonts/Dives-Akuru [Dives-Akurau](https://github.com/notofonts/dives-akuru)
-
+18. virtualvinodh/Adinatha Tamil Brahmi [Adinatha](http://www.virtualvinodh.com/projects/adinatha)
+19. virtualvinodh/satisar-sharada [Satisar sharada](https://satisarsharada.appspot.com/font-keyboard)
 
 # DOWNLOAD URL
 
@@ -38,17 +39,9 @@
 15. [Bhaisuki](https://github.com/notofonts/bhaiksuki/releases/download/NotoSansBhaiksuki-v2.002/NotoSansBhaiksuki-v2.002.zip)
 16. [Ahom](https://github.com/notofonts/ahom/releases/download/NotoSerifAhom-v2.007/NotoSerifAhom-v2.007.zip)
 17. [Dives-Akuru](https://github.com/notofonts/dives-akuru/releases/download/NotoSerifDivesAkuru-v1.001/NotoSerifDivesAkuru-v1.001.zip)
-
-
-
-
-
-
-
-
-
-
-
+18. [Adinatha](http://www.virtualvinodh.com/download/Adinatha-Tamil-Brahmi.zip)
+19. [Satisar sharada](https://github.com/virtualvinodh/satisarsharada/raw/main/Sharada.ttf)
+20. [satisar sharada kmp](https://github.com/virtualvinodh/sharada-keyman-keyboard/raw/main/build/sharada.kmp)
 
 
 
