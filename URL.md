@@ -30,9 +30,14 @@
 7. [Multani](https://github.com/notofonts/multani/releases/download/NotoSansMultani-v2.002/NotoSansMultani-v2.002.zip)
 8. [Sharada](https://github.com/notofonts/sharada/releases/download/NotoSansSharada-v2.006/NotoSansSharada-v2.006.zip)
 9. [Saurashtra](https://github.com/notofonts/saurashtra/releases/download/NotoSansSaurashtra-v2.002/NotoSansSaurashtra-v2.002.zip)
-
-
-
+10. [Kharaoshthi](https://github.com/notofonts/kharoshthi/releases/download/NotoSansKharoshthi-v2.004/NotoSansKharoshthi-v2.004.zip)
+11. [Khudawadi](https://github.com/notofonts/khudawadi/releases/download/NotoSansKhudawadi-v2.003/NotoSansKhudawadi-v2.003.zip)
+12. [Khojki](https://github.com/notofonts/khojki/releases/download/NotoSerifKhojki-v2.005/NotoSerifKhojki-v2.005.zip)
+13. [Grantha](https://github.com/notofonts/grantha/releases/download/NotoSerifGrantha-v2.004/NotoSerifGrantha-v2.004.zip)
+14. [Brahmi](https://github.com/notofonts/brahmi/releases/download/NotoSansBrahmi-v2.003/NotoSansBrahmi-v2.003.zip)
+15. [Bhaisuki](https://github.com/notofonts/bhaiksuki/releases/download/NotoSansBhaiksuki-v2.002/NotoSansBhaiksuki-v2.002.zip)
+16. [Ahom](https://github.com/notofonts/ahom/releases/download/NotoSerifAhom-v2.007/NotoSerifAhom-v2.007.zip)
+17. [Dives-Akuru](https://github.com/notofonts/dives-akuru/releases/download/NotoSerifDivesAkuru-v1.001/NotoSerifDivesAkuru-v1.001.zip)
 
 
 
