@@ -42,8 +42,7 @@
 18. [Adinatha](http://www.virtualvinodh.com/download/Adinatha-Tamil-Brahmi.zip)
 19. [Satisar sharada](https://github.com/virtualvinodh/satisarsharada/raw/main/Sharada.ttf)
 20. [satisar sharada kmp](https://github.com/virtualvinodh/sharada-keyman-keyboard/raw/main/build/sharada.kmp)
-
-
+21. [Grantha kmp](https://github.com/virtualvinodh/grantha-keyman-keyboards/archive/refs/heads/main.zip)
 
 # NON LIBRE FONT HOMEPAGE
 
