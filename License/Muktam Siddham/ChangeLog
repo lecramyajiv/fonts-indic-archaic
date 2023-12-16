@@ -1,0 +1,196 @@
+2019-01-29 MihailJP <mihailjp@gmail.com>
+
+	* Modify Makefile
+	* Modify license.txt so that GitHub recognizes as OFL
+	* Version 2.0.0
+
+2019-01-28 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'v1.x' into Unicode
+	* Version 1.3.0
+	* Merge branch 'ru_form'
+	* Merge branch 'ru_form' into Unicode
+	* Forms of U+115DC/U+115DD preceded by U+115A8
+	* Modify .gitignore
+	* Use Siddham block for non-Graphite versions
+	* Convert LatinGlyphs.sfd to newer format
+	* Makefile and INSTALL files
+
+2018-02-25 MihailJP <mihailjp@gmail.com>
+
+	* Modify tsa and tsa.0001
+	* Remove redundant "Back" from Muktamsiddham.sfd
+
+2017-02-12 GitHub <noreply@github.com>
+
+	* Merge pull request #4 from phi-gamma/fix-py3
+
+2017-01-29 Philipp Gesang <phg@phi-gamma.net>
+
+	* outline.py: fix for Python3
+
+2015-07-06 MihailJP <mihailjp@gmail.com>
+
+	* Set version 1.2.0
+	* Merge branch 'Unicode-8.0'
+	* Update README
+	* smp.py: Fix glyph name
+
+2015-05-11 MihailJP <mihailjp@gmail.com>
+
+	* Merge pull request #3 from KrasnayaPloshchad/patch-1
+
+2015-05-06 Krasnaya Ploshchad <shanshandehongxing@outlook.com>
+
+	* Small fix
+
+2015-04-18 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'makefile' into Unicode-8.0
+	* Merge branch 'makefile'
+	* Add recipe for zip, tar-bz2, tar-gz to Makefile
+	* Merge branch 'point' into Unicode-8.0
+	* Merge branch 'point'
+	* Modify points as in Anusvara, Visarga
+	* Add alternative dependent vowel sign UU
+	* Merge branch 'newline' into Unicode-8.0
+	* Merge branch 'newline'
+	* Remove CR from Newline
+	* Add alternate dependent vowel sign u
+	* Merge branch 'master' into Unicode-8.0
+	* Version 1.1.1
+	* Modify for the source package
+	* Let ChangeLog be generated
+	* Switch archive format to .tar.xz
+
+2015-04-17 MihailJP <mihailjp@gmail.com>
+
+	* Fix source package
+	* Modify Makefile
+	* Automatic reformatting of Muktamsiddham.sfd
+	* Year
+	* Modify path to grcompiler
+
+2015-04-12 MihailJP <mihailjp@gmail.com>
+
+	* Add alternate independent vowels
+	* Merge branch 'master' into Unicode-8.0
+	* Apply nukta forms to Graphite definition
+	* Eliminate redundant complementary definitions
+	* Rename glyph 'section10' to 'terminus'
+	* Add section marks added as of Unicode 8.0
+	* Re-assign PUA glyphs
+	* Re-assign already added section marks
+	* For OutlinesG.sfd use Python script rather than patch file
+	* Rewrite outlines.py
+
+2014-06-29 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.1.0
+	* Edit metadata
+	* Merge branch 'removeDeva'
+	* Edit metadata for MuktamsiddhamG
+	* Remove Devanagari codepoints from MuktamsiddhamG
+	* Give each lookup tables an English name
+
+2014-06-24 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'version'
+	* Version 1.0.0
+	* Year
+	* Update README
+	* Merge branches 'nukta' and 'roman'
+	* Modify Latin letter Q
+	* Add Nukta substitutions to Graphite table
+
+2014-06-23 MihailJP <mihailjp@gmail.com>
+
+	* Update patch file
+	* Add ravattu with nukta forms
+	* Add vowels with nukta
+	* Add consonants with nukta
+
+2014-06-21 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'sfd-autocorrect' into nukta
+	* Merge branch 'sfd-autocorrect'
+	* Extended point attributes
+	* Add glyph for nukta
+	* Remove duplicate definition
+	* Merge branch 'unicode70'
+	* Add .gitignore
+	* Unicode 7.0 Siddam codepoints
+
+2012-05-10 MihailJP <mihailjp@gmail.com>
+
+	* ChangeLog 0.3.0
+	* Makefile
+	* GDL Siddham-to-Devanagari glyph conversion
+	* Modified Makefile
+	* SMP allocation
+	* GDL Correction
+	* Corrected i-matra substitution
+	* Corrected wrong glyph decomposition
+	* Added positioning rule GDL
+	* Ignore warning 4517
+	* Allow repha at GDL substitution
+	* Graphite rules for GSUB-equivalent
+	* Added GDL glyph data (automatically generated)
+	* year
+
+2012-05-09 MihailJP <mihailjp@gmail.com>
+
+	* Update outlines.py
+	* Version number
+	* Added section marks
+	* Additional punctuations at PUA
+
+2011-10-13 MihailJP <mihailjp@gmail.com>
+
+	* Letter Conjunction had the wrong feature tag
+
+2011-10-12 MihailJP <mihailjp@gmail.com>
+
+	* Added features for RRT
+
+2011-10-04 MihailJP <mihailjp@gmail.com>
+
+	* ChangeLog updated
+	* ドキュメントの不備を直す
+
+2011-10-02 MihailJP <mihailjp@gmail.com>
+
+	* Version 0.2.0までの更新をChangeLogに記載
+	* READMEにリポジトリについて記載
+	* Added dummy ChangeLog
+	* Version changed to 0.2.0
+	* Added Makefile target "dist"
+
+2011-09-21 MihailJP <mihailjp@gmail.com>
+
+	* make clean時にエラーを無視するように変更
+
+2011-09-19 MihailJP <mihailjp@gmail.com>
+
+	* README revert
+	* making ravattu non-spacing, OpenType feature adjusted
+	* Patch from taka447: switched features to psts/akhn/akhn for 
+	  XeLaTeX-Mac
+
+2011-09-13 MihailJP <mihailjp@gmail.com>
+
+	* TypeError handling in truetype.py
+	* confirmed buildable with Fontforge-20110222
+	* make the stroke data correctly processed on the recent Fontforge build
+	* Update README: Linux not yet supported
+
+2011-09-10 MihailJP <mihailjp@gmail.com>
+
+	* Added glyph strya
+	* Makefile completed
+	* Outlines.sfd file now can be built with make command; pre-built 
+	  Outlines.sfd and OutlinesTT.sfd are deleted.
+
+2011-03-06 MihailJP <mihailjp@gmail.com>
+
+	* Imported from version 0.1.1

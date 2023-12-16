@@ -19,6 +19,10 @@
 17. Notofonts/Dives-Akuru [Dives-Akurau](https://github.com/notofonts/dives-akuru)
 18. virtualvinodh/Adinatha Tamil Brahmi [Adinatha](http://www.virtualvinodh.com/projects/adinatha)
 19. virtualvinodh/satisar-sharada [Satisar sharada](https://satisarsharada.appspot.com/font-keyboard)
+20. MihailJP/modi [Mihail Modi](http://mihafont.seesaa.net/article/269211518.html)
+21. MihailJP/siddham [Muktamsiddham](http://mihafont.seesaa.net/article/167209339.html)
+22. MihailJP/Khudawadi [Mihail Khudawadi](http://mihafont.seesaa.net/article/269840647.html)
+23. Notofonts/Modi [Noto Sans Modi](https://github.com/notofonts/modi)
 
 # DOWNLOAD URL
 
@@ -43,6 +47,9 @@
 19. [Satisar sharada](https://github.com/virtualvinodh/satisarsharada/raw/main/Sharada.ttf)
 20. [satisar sharada kmp](https://github.com/virtualvinodh/sharada-keyman-keyboard/raw/main/build/sharada.kmp)
 21. [Grantha kmp](https://github.com/virtualvinodh/grantha-keyman-keyboards/archive/refs/heads/main.zip)
+22. [MuktamSiddham](https://github.com/MihailJP/Muktamsiddham/releases/download/v2.0.0/Muktamsiddham-2.0.0.tar.xz)
+23. [Mihail Khudawadi](https://github.com/MihailJP/oldsindhi/releases/download/v1.0/OldSindhi-1.0.tar.xz)
+24. [Noto Sans Modi](https://github.com/notofonts/modi/releases/download/NotoSansModi-v2.004/NotoSansModi-v2.004.zip)
 
 # NON LIBRE FONT HOMEPAGE
 

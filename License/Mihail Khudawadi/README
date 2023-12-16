@@ -1,0 +1,19 @@
+OldSindhi
+=========
+
+This is free Sindhi Khudabadi font.  Khudabadi script was one of the scripts
+used to write Sindhi language.  Graphite support is required for correct
+rendering.  Use this font with Graphite-enabled applications such as
+LibreOffice.
+
+Encoding
+--------
+This is a Unicode font; this uses the Khudawadi block which locates from
+U+112B0 to U+112FF.  Khudabadi script is first included in Version 7.0 of
+Unicode.
+
+Duplicate glyphs shifted to PUA range from U+E2B0 to U+E2FF are also available
+in this font.
+
+
+MihailJP <mihailjp@gmail.com>

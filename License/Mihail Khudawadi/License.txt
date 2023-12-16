@@ -1,0 +1,18 @@
+Copyright (c) 2019, MihailJP.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this font, to use, copy, merge, embed, modify, redistribute,
+and/or sell copies of this font, under the terms of either:
+
+a) the MIT License (see License-MIT.txt), or
+
+b) the SIL Open Font License (see License-OFL.txt) with no Reserved Font
+   Name.
+
+THIS FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
