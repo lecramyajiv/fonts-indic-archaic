@@ -43,11 +43,9 @@
 16. [Dives-Akuru](https://github.com/notofonts/dives-akuru/releases/download/NotoSerifDivesAkuru-v1.001/NotoSerifDivesAkuru-v1.001.zip)
 17. [Adinatha](http://www.virtualvinodh.com/download/Adinatha-Tamil-Brahmi.zip)
 18. [Satisar sharada](https://github.com/virtualvinodh/satisarsharada/raw/main/Sharada.ttf)
-19. [satisar sharada kmp](https://github.com/virtualvinodh/sharada-keyman-keyboard/raw/main/build/sharada.kmp)
-20. [Grantha kmp](https://github.com/virtualvinodh/grantha-keyman-keyboards/archive/refs/heads/main.zip)
-21. [MuktamSiddham](https://github.com/MihailJP/Muktamsiddham/releases/download/v2.0.0/Muktamsiddham-2.0.0.tar.xz)
-22. [Mihail Khudawadi](https://github.com/MihailJP/oldsindhi/releases/download/v1.0/OldSindhi-1.0.tar.xz)
-23. [Noto Sans Modi](https://github.com/notofonts/modi/releases/download/NotoSansModi-v2.004/NotoSansModi-v2.004.zip)
+19. [MuktamSiddham](https://github.com/MihailJP/Muktamsiddham/releases/download/v2.0.0/Muktamsiddham-2.0.0.tar.xz)
+20. [Mihail Khudawadi](https://github.com/MihailJP/oldsindhi/releases/download/v1.0/OldSindhi-1.0.tar.xz)
+21. [Noto Sans Modi](https://github.com/notofonts/modi/releases/download/NotoSansModi-v2.004/NotoSansModi-v2.004.zip)
 
 # NON LIBRE FONT HOMEPAGE
 
